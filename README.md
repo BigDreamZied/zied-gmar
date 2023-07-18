@@ -7,7 +7,7 @@
 <p align='left'>⚡ Fun fact: I don't know how to swim </p>
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziedgmar&custom_title=Contributions&hide_border=true&theme=react">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BigDreamZied&bg_color=292429&color=fafafa&line=0979f1&point=ffffff&area=true&hide_border=true">
 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ziedgmar&show_icons=true&theme=radical"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziedgmar&theme=dark"> |
