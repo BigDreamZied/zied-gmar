@@ -10,7 +10,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=roniceyemeli&custom_title=Contributions&hide_border=true&theme=react">
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ziedgmar&show_icons=true&theme=radical"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=roniceyemeli&theme=dark"> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ziedgmar&show_icons=true&theme=radical"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziedgmar&theme=dark"> |
 | :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziedgmar&langs_count=8&layout=compact" /> | <p align="center"> Visitor count</p><img align="center" src="https://profile-counter.glitch.me/roniceyemeli/count.svg" /> |
