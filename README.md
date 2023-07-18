@@ -1,4 +1,4 @@
-<h1 align="left">Aloha 👋, I'm Ronice</h1>
+<h1 align="left">Aloha 👋, I'm    Zied Gmar</h1>
 
 
 <p align='left'>😄 Pronouns: he/him</p>
