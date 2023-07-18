@@ -2,8 +2,7 @@
 
 
 <p align='left'>😄 Pronouns: he/him</p>
-<p align='left'>💬 Let's talk about basketball and  resilience</p>
-<p align='left'> 🔭 I’m currently preparing for AWS Developer Certification </p>
+<p align='left'>💬 Let's talk about Handball and camping</p>
 <p align='left'> - 👯 I’m looking for new opportunities </p>
 <p align='left'>⚡ Fun fact: I don't know how to swim </p>
 
@@ -11,10 +10,10 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=roniceyemeli&custom_title=Contributions&hide_border=true&theme=react">
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=roniceyemeli&show_icons=true&theme=radical"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=roniceyemeli&theme=dark"> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ziedgmar&show_icons=true&theme=radical"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=roniceyemeli&theme=dark"> |
 | :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roniceyemeli&langs_count=8&layout=compact" /> | <p align="center"> Visitor count</p><img align="center" src="https://profile-counter.glitch.me/roniceyemeli/count.svg" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziedgmar&langs_count=8&layout=compact" /> | <p align="center"> Visitor count</p><img align="center" src="https://profile-counter.glitch.me/roniceyemeli/count.svg" /> |
 | :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
 
 <p align="center" > Let's connect on 👇🏻 </p>
